@@ -24,3 +24,9 @@ The dataset was analyzed using Pandas and NumPy, and visualized using Matplotlib
 Swayam Adatia  
 Diploma Graduate in Computer Engineering  
 Aspiring Computer Science Student
+
+## 📸 Sample Output
+
+![Graph 1](graph1.png)
+
+![Graph 2](graph2.png)
